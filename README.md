@@ -1,39 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Aaron Mano Cherian
 
-```verilog
-module passionate_engineer (
-    input  wire clk,
-    input  wire [7:0] curiosity,
-    output reg  innovation,
-    output reg  impact
-);
-
-always @(posedge clk) begin
-    if (curiosity > 0) begin
-        innovation <= 1'b1;
-        impact <= innovation & curiosity[7];
-    end
-end
-
-endmodule // Where hardware meets intelligence
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaron.cherian@columbia.edu)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](your-website)
-
-**MS Computer Engineering @ Columbia University**
-
-*Architecting the future of hardware-accelerated AI*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
 ## 🎯 About Me
 
 I'm a hardware-software engineer obsessed with making AI faster, smaller, and smarter. My work lives at the intersection of **custom silicon design**, **neural network optimization**, and **edge computing**—basically, I'm trying to put datacenter-level intelligence into devices that fit in your pocket.
@@ -95,6 +61,43 @@ current_focus = {
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
+
+
+
+```verilog
+module passionate_engineer (
+    input  wire clk,
+    input  wire [7:0] curiosity,
+    output reg  innovation,
+    output reg  impact
+);
+
+always @(posedge clk) begin
+    if (curiosity > 0) begin
+        innovation <= 1'b1;
+        impact <= innovation & curiosity[7];
+    end
+end
+
+endmodule // Where hardware meets intelligence
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaron.cherian@columbia.edu)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](your-website)
+
+**MS Computer Engineering @ Columbia University**
+
+*Architecting the future of hardware-accelerated AI*
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
 
 ## 🔥 What I'm Working On
 
