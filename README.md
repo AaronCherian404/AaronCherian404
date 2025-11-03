@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 
-I'm a research-oriented Computer Engineering Graduate student with expertise in AI and Embedded Software, seeking to develop hardware-software co-designed systems, for real-world applications. 
+I'm a research-oriented Computer Engineering Graduate student with experience in Artificial Intelligence and Embedded Software, seeking to develop hardware-software co-designed systems for real-world applications. 
 My work lives at the intersection of **embedded systems**, **neural network optimization**, and **edge computing** bringing datacenter-level intelligence into devices that fit in your pocket.
 
 <div align="center">
