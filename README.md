@@ -30,9 +30,7 @@ My work lives at the intersection of **embedded systems**, **neural network opti
 ## 🛠️ Tech Stack
 
 ### AI/ML Frameworks
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![TinyML](https://img.shields.io/badge/-TinyML-00979D?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![TinyML](https://img.shields.io/badge/-TinyML-00979D?style=flat-square)
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -74,8 +72,5 @@ I'm always excited to collaborate on projects involving hardware acceleration, e
 <div align="center">
 
 **aaron.cherian@columbia.edu** • **New York, NY**
-
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-cherian)
-[![Portfolio](https://img.shields.io/badge/-View_Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://aaroncherian404.github.io/Portfolio_Website_Min/Landingpage.html)
 
 </div>
