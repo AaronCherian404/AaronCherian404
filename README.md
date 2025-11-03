@@ -3,7 +3,7 @@
 ## 🎯 About Me
 
 I'm a research-oriented Computer Engineering Graduate student with expertise in AI and Embedded Software, seeking to develop hardware-software co-designed systems, for real-world applications. 
-My work lives at the intersection of **embedded systems**, **neural network optimization**, and **edge computing**—basically, I'm trying to put datacenter-level intelligence into devices that fit in your pocket.
+My work lives at the intersection of **embedded systems**, **neural network optimization**, and **edge computing** bringing datacenter-level intelligence into devices that fit in your pocket.
 
 <div align="center">
 
@@ -69,7 +69,7 @@ My work lives at the intersection of **embedded systems**, **neural network opti
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate on projects involving hardware acceleration, edge AI, or IoT systems. Whether you're building custom silicon, optimizing neural networks, or just want to geek out about computer architecture—let's talk!
+I'm always excited to collaborate on projects involving hardware acceleration, edge AI, or IoT systems. Whether you're building interesting ML Models, optimizing neural networks, or just want to geek out about computer architecture—let's talk!
 
 <div align="center">
 
